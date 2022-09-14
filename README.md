@@ -1,0 +1,5 @@
+- 👋 ola, sou a camili domingues
+- 👀 estou aprendendo pensamento computacional
+- 🌱 estamos trabalhando com github
+- 💞️ estou me empenhando em aprender essa materia 
+- 📫 E-mail: domingues.camili@escola.pr.gov.br     
